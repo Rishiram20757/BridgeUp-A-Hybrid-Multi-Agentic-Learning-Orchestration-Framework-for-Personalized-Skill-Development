@@ -1,0 +1,151 @@
+skill_id,skill_name,domain,parent_skill,level,description
+S001,algorithms,General,data structures,Intermediate,Knowledge or competency in algorithms
+S002,api design,Programming,backend development,Intermediate,Knowledge or competency in api design
+S003,application development,General,,Intermediate,Knowledge or competency in application development
+S004,authentication,General,,Intermediate,Knowledge or competency in authentication
+S005,automated planning heuristics,General,,Intermediate,Knowledge or competency in automated planning heuristics
+S006,automated planning problem definition,General,,Intermediate,Knowledge or competency in automated planning problem definition
+S007,backend development,Programming,programming fundamentals,Intermediate,Knowledge or competency in backend development
+S008,bayesian networks,General,,Intermediate,Knowledge or competency in bayesian networks
+S009,behavioral interview,General,,Intermediate,Knowledge or competency in behavioral interview
+S010,brand management,General,,Intermediate,Knowledge or competency in brand management
+S011,buffer overflow,General,,Intermediate,Knowledge or competency in buffer overflow
+S012,cascading style sheets (css),Programming,,Intermediate,Knowledge or competency in cascading style sheets (css)
+S013,ci cd,DevOps,version control,Intermediate,Knowledge or competency in ci cd
+S014,clinical research,General,,Intermediate,Knowledge or competency in clinical research
+S015,cloud computing,DevOps,,Intermediate,Knowledge or competency in cloud computing
+S016,cloud fundamentals,DevOps,,Beginner,Knowledge or competency in cloud fundamentals
+S017,cloud native,DevOps,,Intermediate,Knowledge or competency in cloud native
+S018,cloud storage,DevOps,,Intermediate,Knowledge or competency in cloud storage
+S019,coding,General,,Intermediate,Knowledge or competency in coding
+S020,communication,General,,Intermediate,Knowledge or competency in communication
+S021,concatenation,General,,Intermediate,Knowledge or competency in concatenation
+S022,consolization,General,,Intermediate,Knowledge or competency in consolization
+S023,constraint propagation,General,,Intermediate,Knowledge or competency in constraint propagation
+S024,constraint satisfaction problems,General,,Intermediate,Knowledge or competency in constraint satisfaction problems
+S025,containerization,DevOps,linux,Intermediate,Knowledge or competency in containerization
+S026,creativity,General,,Intermediate,Knowledge or competency in creativity
+S027,crisp-dm,General,,Intermediate,Knowledge or competency in crisp-dm
+S028,cryptography,General,,Intermediate,Knowledge or competency in cryptography
+S029,cybersecurity,General,,Intermediate,Knowledge or competency in cybersecurity
+S030,data analysis,Data Science,,Intermediate,Knowledge or competency in data analysis
+S031,data analysis interview,Data Science,,Intermediate,Knowledge or competency in data analysis interview
+S032,data architecture,Data Science,,Intermediate,Knowledge or competency in data architecture
+S033,data management,Data Science,,Intermediate,Knowledge or competency in data management
+S034,data mining,Data Science,,Intermediate,Knowledge or competency in data mining
+S035,data preparation,Data Science,,Intermediate,Knowledge or competency in data preparation
+S036,data science,Data Science,,Intermediate,Knowledge or competency in data science
+S037,data science methodology,Data Science,,Intermediate,Knowledge or competency in data science methodology
+S038,data structure,Data Science,,Intermediate,Knowledge or competency in data structure
+S039,data structures,Data Science,,Intermediate,Knowledge or competency in data structures
+S040,data visualization,Data Science,data analysis,Intermediate,Knowledge or competency in data visualization
+S041,data visualization (dataviz),Data Science,,Intermediate,Knowledge or competency in data visualization (dataviz)
+S042,databases,Data Science,,Intermediate,Knowledge or competency in databases
+S043,debugging,General,,Intermediate,Knowledge or competency in debugging
+S044,deep learning,Machine Learning,machine learning basics,Advanced,Knowledge or competency in deep learning
+S045,design thinking,General,,Intermediate,Knowledge or competency in design thinking
+S046,devops,DevOps,,Intermediate,Knowledge or competency in devops
+S047,digital marketing,General,,Intermediate,Knowledge or competency in digital marketing
+S048,emotional engagement,General,,Intermediate,Knowledge or competency in emotional engagement
+S049,estimation interview,General,,Intermediate,Knowledge or competency in estimation interview
+S050,evaluation,General,,Intermediate,Knowledge or competency in evaluation
+S051,excel,General,,Intermediate,Knowledge or competency in excel
+S052,exploratory data analysis,Data Science,,Intermediate,Knowledge or competency in exploratory data analysis
+S053,first order logic,General,,Intermediate,Knowledge or competency in first order logic
+S054,front-end web development,General,,Intermediate,Knowledge or competency in front-end web development
+S055,frontend frameworks,Programming,javascript,Intermediate,Knowledge or competency in frontend frameworks
+S056,fuzz testing,General,,Intermediate,Knowledge or competency in fuzz testing
+S057,github,General,,Intermediate,Knowledge or competency in github
+S058,google cloud platform,DevOps,,Intermediate,Knowledge or competency in google cloud platform
+S059,graphic design,General,,Intermediate,Knowledge or competency in graphic design
+S060,gratitude,General,,Intermediate,Knowledge or competency in gratitude
+S061,hash table,General,,Intermediate,Knowledge or competency in hash table
+S062,health system analysis,Data Science,,Intermediate,Knowledge or competency in health system analysis
+S063,html,Programming,,Intermediate,Knowledge or competency in html
+S064,html and css,Programming,,Intermediate,Knowledge or competency in html and css
+S065,html css,Programming,,Intermediate,Knowledge or competency in html css
+S066,html5,Programming,,Intermediate,Knowledge or competency in html5
+S067,hybrid multicloud,DevOps,,Intermediate,Knowledge or competency in hybrid multicloud
+S068,iaas paas saas,General,,Intermediate,Knowledge or competency in iaas paas saas
+S069,inclusive innovation,General,,Intermediate,Knowledge or competency in inclusive innovation
+S070,innovation,General,,Intermediate,Knowledge or competency in innovation
+S071,integrated marketing communications,General,,Intermediate,Knowledge or competency in integrated marketing communications
+S072,interpretation,General,,Intermediate,Knowledge or competency in interpretation
+S073,inventory,General,,Intermediate,Knowledge or competency in inventory
+S074,java programming,General,,Intermediate,Knowledge or competency in java programming
+S075,javascript,Programming,,Intermediate,Knowledge or competency in javascript
+S076,jupyter notebook,General,,Intermediate,Knowledge or competency in jupyter notebook
+S077,k-means clustering,General,,Intermediate,Knowledge or competency in k-means clustering
+S078,leadership,General,,Intermediate,Knowledge or competency in leadership
+S079,lesson plan,General,,Intermediate,Knowledge or competency in lesson plan
+S080,likelihood function,General,,Intermediate,Knowledge or competency in likelihood function
+S081,linear algebra,General,,Intermediate,Knowledge or competency in linear algebra
+S082,linear regression,General,,Intermediate,Knowledge or competency in linear regression
+S083,linux,DevOps,,Intermediate,Knowledge or competency in linux
+S084,logistics planning,General,,Intermediate,Knowledge or competency in logistics planning
+S085,machine learning,Machine Learning,,Intermediate,Knowledge or competency in machine learning
+S086,machine learning basics,Machine Learning,statistics,Beginner,Knowledge or competency in machine learning basics
+S087,management,General,,Intermediate,Knowledge or competency in management
+S088,marketing channel,General,,Intermediate,Knowledge or competency in marketing channel
+S089,methodology,General,,Intermediate,Knowledge or competency in methodology
+S090,microsoft excel,General,,Intermediate,Knowledge or competency in microsoft excel
+S091,mindfulness,General,,Intermediate,Knowledge or competency in mindfulness
+S092,minimax search,General,,Intermediate,Knowledge or competency in minimax search
+S093,mobile marketing,General,,Intermediate,Knowledge or competency in mobile marketing
+S094,model deployment,Machine Learning,,Intermediate,Knowledge or competency in model deployment
+S095,motivation,General,,Intermediate,Knowledge or competency in motivation
+S096,multi-agent training,General,,Intermediate,Knowledge or competency in multi-agent training
+S097,neurodiversity,General,,Intermediate,Knowledge or competency in neurodiversity
+S098,number theory,General,,Intermediate,Knowledge or competency in number theory
+S099,object oriented programming,General,,Intermediate,Knowledge or competency in object oriented programming
+S100,optimization algorithms,General,,Intermediate,Knowledge or competency in optimization algorithms
+S101,organizational behavior,General,,Intermediate,Knowledge or competency in organizational behavior
+S102,organizational strategy,General,,Intermediate,Knowledge or competency in organizational strategy
+S103,penetration test,General,,Intermediate,Knowledge or competency in penetration test
+S104,pivot chart,General,,Intermediate,Knowledge or competency in pivot chart
+S105,pivot table,General,,Intermediate,Knowledge or competency in pivot table
+S106,plan,General,,Intermediate,Knowledge or competency in plan
+S107,positive psychology,General,,Intermediate,Knowledge or competency in positive psychology
+S108,predictive analytics,General,,Intermediate,Knowledge or competency in predictive analytics
+S109,privacy,General,,Intermediate,Knowledge or competency in privacy
+S110,problem solving,General,,Intermediate,Knowledge or competency in problem solving
+S111,product design interview,General,,Intermediate,Knowledge or competency in product design interview
+S112,programming fundamentals,General,,Beginner,Knowledge or competency in programming fundamentals
+S113,programming principles,General,,Intermediate,Knowledge or competency in programming principles
+S114,project,General,,Intermediate,Knowledge or competency in project
+S115,propositional logic,General,,Intermediate,Knowledge or competency in propositional logic
+S116,prototyping,General,,Intermediate,Knowledge or competency in prototyping
+S117,public-key cryptography,General,,Intermediate,Knowledge or competency in public-key cryptography
+S118,python,General,,Intermediate,Knowledge or competency in python
+S119,python programming,General,,Intermediate,Knowledge or competency in python programming
+S120,responsive design,General,,Intermediate,Knowledge or competency in responsive design
+S121,responsive web design,General,,Intermediate,Knowledge or competency in responsive web design
+S122,search algorithms,General,,Intermediate,Knowledge or competency in search algorithms
+S123,sel in curriculum,General,,Intermediate,Knowledge or competency in sel in curriculum
+S124,social emotional,General,,Intermediate,Knowledge or competency in social emotional
+S125,social emotional learning,General,,Intermediate,Knowledge or competency in social emotional learning
+S126,social media,General,,Intermediate,Knowledge or competency in social media
+S127,software testing,General,,Intermediate,Knowledge or competency in software testing
+S128,sql,Data Science,,Intermediate,Knowledge or competency in sql
+S129,sql injection,Data Science,,Intermediate,Knowledge or competency in sql injection
+S130,statistical analysis,Data Science,,Intermediate,Knowledge or competency in statistical analysis
+S131,statistical hypothesis testing,General,,Intermediate,Knowledge or competency in statistical hypothesis testing
+S132,statistics,Data Science,,Intermediate,Knowledge or competency in statistics
+S133,strategies in teaching,General,,Intermediate,Knowledge or competency in strategies in teaching
+S134,strategy interview,General,,Intermediate,Knowledge or competency in strategy interview
+S135,string (computer science),General,,Intermediate,Knowledge or competency in string (computer science)
+S136,supply chain,General,,Intermediate,Knowledge or competency in supply chain
+S137,teaching and learning,General,,Intermediate,Knowledge or competency in teaching and learning
+S138,team building,General,,Intermediate,Knowledge or competency in team building
+S139,team management,General,,Intermediate,Knowledge or competency in team management
+S140,text analysis,Data Science,,Intermediate,Knowledge or competency in text analysis
+S141,time-series analysis with ml,Data Science,,Intermediate,Knowledge or competency in time-series analysis with ml
+S142,usability,General,,Intermediate,Knowledge or competency in usability
+S143,user experience (ux),General,,Intermediate,Knowledge or competency in user experience (ux)
+S144,user interface,General,,Intermediate,Knowledge or competency in user interface
+S145,user interface design,General,,Intermediate,Knowledge or competency in user interface design
+S146,user interface design (ui design),General,,Intermediate,Knowledge or competency in user interface design (ui design)
+S147,version control,General,,Intermediate,Knowledge or competency in version control
+S148,warehouse management,General,,Intermediate,Knowledge or competency in warehouse management
+S149,web development tools,General,,Intermediate,Knowledge or competency in web development tools
+S150,world health organization analysis,Data Science,,Intermediate,Knowledge or competency in world health organization analysis

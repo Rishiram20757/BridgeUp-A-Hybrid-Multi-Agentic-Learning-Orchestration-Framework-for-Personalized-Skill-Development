@@ -1,0 +1,20 @@
+[
+  {
+    "session_id": "364b35b6-89e8-4d64-be3c-00939b3a3b75",
+    "strategy_type": "balanced",
+    "total_tasks": 13,
+    "completed_tasks": 10,
+    "missed_tasks": 3,
+    "pending_tasks": 0,
+    "total_reschedules": 0,
+    "weekly_hours_allocated": 10,
+    "weekly_hours_used": 20.0,
+    "active_days": 10,
+    "planned_days": 5,
+    "inactivity_periods": 0,
+    "early_completions": 0,
+    "average_delay_seconds": 0.0,
+    "task_interval_stddev": 0.0,
+    "snapshot_timestamp": "2026-04-21 15:08:08.224952"
+  }
+]

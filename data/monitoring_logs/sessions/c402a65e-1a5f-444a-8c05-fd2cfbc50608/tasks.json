@@ -1,0 +1,62 @@
+{
+  "t1": {
+    "task_id": "t1",
+    "session_id": "c402a65e-1a5f-444a-8c05-fd2cfbc50608",
+    "strategy_type": "balanced",
+    "created_at": "2026-04-27T18:38:45.881238",
+    "scheduled_start": "2026-04-27T18:38:45.881238",
+    "deadline": "2026-04-28T02:07:52.256680",
+    "started_at": "2026-04-27T18:38:45.881238",
+    "completed_at": "2026-04-27T19:08:45.881238",
+    "status": "completed",
+    "reschedule_count": 0,
+    "delay_duration_seconds": 0.0,
+    "execution_duration_seconds": 1800.0,
+    "was_early": true
+  },
+  "t2": {
+    "task_id": "t2",
+    "session_id": "c402a65e-1a5f-444a-8c05-fd2cfbc50608",
+    "strategy_type": "balanced",
+    "created_at": "2026-04-27T18:38:45.921507",
+    "scheduled_start": "2026-04-27T18:38:45.921507",
+    "deadline": "2026-04-29T04:07:52.256680",
+    "started_at": "2026-04-27T18:38:45.921507",
+    "completed_at": "2026-04-27T19:08:45.921507",
+    "status": "completed",
+    "reschedule_count": 0,
+    "delay_duration_seconds": 0.0,
+    "execution_duration_seconds": 1800.0,
+    "was_early": true
+  },
+  "t3": {
+    "task_id": "t3",
+    "session_id": "c402a65e-1a5f-444a-8c05-fd2cfbc50608",
+    "strategy_type": "balanced",
+    "created_at": "2026-04-27T18:38:45.925506",
+    "scheduled_start": "2026-04-27T18:38:45.925506",
+    "deadline": "2026-04-30T06:07:52.256680",
+    "started_at": "2026-04-27T18:38:45.925506",
+    "completed_at": "2026-04-27T19:08:45.925506",
+    "status": "completed",
+    "reschedule_count": 0,
+    "delay_duration_seconds": 0.0,
+    "execution_duration_seconds": 1800.0,
+    "was_early": true
+  },
+  "t4": {
+    "task_id": "t4",
+    "session_id": "c402a65e-1a5f-444a-8c05-fd2cfbc50608",
+    "strategy_type": "balanced",
+    "created_at": "2026-04-27T18:38:45.930811",
+    "scheduled_start": "2026-04-27T18:38:45.930811",
+    "deadline": "2026-05-01T08:07:52.256680",
+    "started_at": "2026-04-27T18:38:45.930811",
+    "completed_at": "2026-04-27T18:51:33.070285",
+    "status": "completed",
+    "reschedule_count": 0,
+    "delay_duration_seconds": 0.0,
+    "execution_duration_seconds": 767.139474,
+    "was_early": true
+  }
+}

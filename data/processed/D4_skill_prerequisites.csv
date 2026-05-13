@@ -1,0 +1,10 @@
+skill_id,prerequisite_skill_id,dependency_type
+S001,S039,hard
+S002,S007,soft
+S007,S112,hard
+S013,S147,soft
+S025,S083,soft
+S040,S030,soft
+S044,S086,hard
+S055,S075,soft
+S086,S132,hard

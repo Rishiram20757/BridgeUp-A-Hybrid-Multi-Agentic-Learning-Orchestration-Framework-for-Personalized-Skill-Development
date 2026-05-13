@@ -1,0 +1,38 @@
+[
+  {
+    "session_id": "03e23365-280a-4698-90b4-e6863b6701e5",
+    "strategy_type": "balanced",
+    "total_tasks": 13,
+    "completed_tasks": 0,
+    "missed_tasks": 0,
+    "pending_tasks": 13,
+    "total_reschedules": 0,
+    "weekly_hours_allocated": 5,
+    "weekly_hours_used": 0.0,
+    "active_days": 0,
+    "planned_days": 5,
+    "inactivity_periods": 0,
+    "early_completions": 0,
+    "average_delay_seconds": 0.0,
+    "task_interval_stddev": 0.0,
+    "snapshot_timestamp": "2026-03-09 15:56:19.771397"
+  },
+  {
+    "session_id": "03e23365-280a-4698-90b4-e6863b6701e5",
+    "strategy_type": "balanced",
+    "total_tasks": 13,
+    "completed_tasks": 10,
+    "missed_tasks": 3,
+    "pending_tasks": 0,
+    "total_reschedules": 0,
+    "weekly_hours_allocated": 5,
+    "weekly_hours_used": 259.98052985694443,
+    "active_days": 20,
+    "planned_days": 5,
+    "inactivity_periods": 9,
+    "early_completions": 5,
+    "average_delay_seconds": 700.9149590999999,
+    "task_interval_stddev": 2581.782982537894,
+    "snapshot_timestamp": "2026-03-09 15:56:24.086466"
+  }
+]

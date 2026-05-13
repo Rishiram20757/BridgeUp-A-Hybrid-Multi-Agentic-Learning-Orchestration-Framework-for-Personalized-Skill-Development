@@ -1,0 +1,9 @@
+job_role_id,job_role_name,required_skills,skill_weightage,domain
+J01,Software Engineer,programming fundamentals|data structures|algorithms|object oriented programming|version control,programming fundamentals:0.25|data structures:0.25|algorithms:0.2|object oriented programming:0.2|version control:0.1,Programming
+J02,Data Analyst,python|sql|statistics|data visualization|excel,python:0.25|sql:0.25|statistics:0.2|data visualization:0.2|excel:0.1,Data Science
+J03,Data Scientist,python|statistics|machine learning basics|data analysis|data visualization,python:0.25|statistics:0.25|machine learning basics:0.2|data analysis:0.15|data visualization:0.15,Data Science
+J04,Machine Learning Engineer,python|machine learning basics|deep learning|linear algebra|model deployment,python:0.25|machine learning basics:0.25|deep learning:0.2|linear algebra:0.15|model deployment:0.15,Machine Learning
+J05,Full Stack Developer,html css|javascript|frontend frameworks|backend development|databases,html css:0.2|javascript:0.25|frontend frameworks:0.2|backend development:0.2|databases:0.15,Programming
+J06,Backend Developer,programming fundamentals|backend development|databases|api design|authentication,programming fundamentals:0.25|backend development:0.3|databases:0.2|api design:0.15|authentication:0.1,Programming
+J07,Frontend Developer,html css|javascript|responsive design|user interface design|frontend frameworks,html css:0.25|javascript:0.3|responsive design:0.15|user interface design:0.15|frontend frameworks:0.15,Programming
+J08,DevOps Engineer,linux|version control|ci cd|containerization|cloud fundamentals,linux:0.2|version control:0.15|ci cd:0.25|containerization:0.2|cloud fundamentals:0.2,DevOps

@@ -1,0 +1,1 @@
+{"event_id":"35c705f8-dc82-49c1-b2d6-7b5c517261d2","version":"1.0","timestamp":"2026-02-20T14:24:30.263467Z","session_id":"logger_test","agent":"orchestrator","event_type":"SESSION_STARTED","payload":{"user_id":"test_user"},"metadata":{}}

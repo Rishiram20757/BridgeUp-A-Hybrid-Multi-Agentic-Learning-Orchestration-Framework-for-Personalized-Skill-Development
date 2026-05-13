@@ -1,0 +1,2 @@
+{"event_id":"d5b54f10-965e-4299-a4e6-05858c357084","version":"1.0","timestamp":"2026-04-22T13:37:59.731348Z","session_id":"b2cb9374-af3f-4a8c-9669-f2c832669370","agent":"orchestrator","event_type":"SESSION_STARTED","payload":{"user_id":"anonymous"},"metadata":{}}
+{"event_id":"384392e7-8b4c-480e-b14f-81be3b5b7463","version":"1.0","timestamp":"2026-04-22T13:39:10.460545Z","session_id":"b2cb9374-af3f-4a8c-9669-f2c832669370","agent":"orchestrator","event_type":"PLAN_READY","payload":{"plan_id":"b2cb9374-af3f-4a8c-9669-f2c832669370:balanced","total_tasks":2},"metadata":{}}

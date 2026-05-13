@@ -1,0 +1,62 @@
+{
+  "t1": {
+    "task_id": "t1",
+    "session_id": "688b597a-4242-49bd-a6a6-ca182e24211d",
+    "strategy_type": "balanced",
+    "created_at": "2026-04-27T15:49:39.783193",
+    "scheduled_start": "2026-04-27T15:49:39.783193",
+    "deadline": "2026-04-27T23:18:48.964601",
+    "started_at": "2026-04-27T15:49:39.783193",
+    "completed_at": "2026-04-27T16:19:39.783193",
+    "status": "completed",
+    "reschedule_count": 0,
+    "delay_duration_seconds": 0.0,
+    "execution_duration_seconds": 1800.0,
+    "was_early": true
+  },
+  "t2": {
+    "task_id": "t2",
+    "session_id": "688b597a-4242-49bd-a6a6-ca182e24211d",
+    "strategy_type": "balanced",
+    "created_at": "2026-04-27T15:49:39.795189",
+    "scheduled_start": "2026-04-27T15:49:39.795189",
+    "deadline": "2026-04-29T01:18:48.964601",
+    "started_at": "2026-04-27T15:49:39.795189",
+    "completed_at": "2026-04-27T16:19:39.795189",
+    "status": "completed",
+    "reschedule_count": 0,
+    "delay_duration_seconds": 0.0,
+    "execution_duration_seconds": 1800.0,
+    "was_early": true
+  },
+  "t3": {
+    "task_id": "t3",
+    "session_id": "688b597a-4242-49bd-a6a6-ca182e24211d",
+    "strategy_type": "balanced",
+    "created_at": "2026-04-27T15:49:39.802326",
+    "scheduled_start": "2026-04-27T15:49:39.802326",
+    "deadline": "2026-04-30T03:18:48.964601",
+    "started_at": "2026-04-27T15:49:39.802326",
+    "completed_at": "2026-04-27T16:19:39.802326",
+    "status": "completed",
+    "reschedule_count": 0,
+    "delay_duration_seconds": 0.0,
+    "execution_duration_seconds": 1800.0,
+    "was_early": true
+  },
+  "t4": {
+    "task_id": "t4",
+    "session_id": "688b597a-4242-49bd-a6a6-ca182e24211d",
+    "strategy_type": "balanced",
+    "created_at": "2026-04-27T15:49:39.812948",
+    "scheduled_start": "2026-04-27T15:49:39.812948",
+    "deadline": "2026-05-01T05:18:48.964601",
+    "started_at": "2026-04-27T15:49:39.812948",
+    "completed_at": null,
+    "status": "missed",
+    "reschedule_count": 0,
+    "delay_duration_seconds": 0.0,
+    "execution_duration_seconds": null,
+    "was_early": false
+  }
+}
